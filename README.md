@@ -1,4 +1,4 @@
-# accesib# accesibilidad-web
+# accesibilidad-web
 **Repositorio del Equipo de Accesibilidad Web de la Oficina Nacional de Tecnologías de Información (ONTI)**
 
 Los recursos presentados en este repositorio son elementos de soporte para el cumplimiento de la [Ley N° 26.653 de “Accesibilidad de la Información en las Páginas Web”](http://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175694/norma.htm) y de la [Disposición ONTI N° 2/2014](http://servicios.infoleg.gob.ar/infolegInternet/anexos/230000-234999/233667/norma.htm). 
@@ -36,5 +36,3 @@ Para ello podés [cargar un nuevo _issue_](https://github.com/argob/accesibilida
 Te invitamos a [crearnos un issue](https://github.com/argob/accesibilidad-web/new) en caso de que quieras proponer una mejora o reportar un error en alguna parte del repositorio `accesibilidad-web`.
 
 Para todo lo demás, podés mandarnos tu comentario o consulta a [accesibilidadweb@modernizacion.gob.ar](mailto:accesibilidadweb@modernizacion.gob.ar).
-
-ilidad-web
