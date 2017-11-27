@@ -8,7 +8,7 @@ Es importante aclarar que si bien estos recursos (recomendaciones, guías, etc.)
 ## Recomendaciones y guías de accesibilidad web (versión 0.1)
 
 Estas recomendaciones son un trabajo colaborativo y en progreso. Invitamos a todas las organizaciones y ciudadanos a contribuir con ideas, sugerencias y comentarios que nos ayuden a mejorarlas. Trabajamos fuertemente para incluir referencias en castellano pero esto no ha sido posible en todos los casos, si encontraste alguna que hayamos puesto en otro idioma y podamos reemplazarla nos encantaría conocerla.
-Para ello podés [cargar un nuevo _issue_](https://github.com/argob/accesibilidad-web/new) o [responder a un _issue_ ya existente](https://github.com/argob/accesibilidad-web/issues).
+Para ello podés [cargar un nuevo _issue_](https://github.com/argob/accesibilidad-web/issues/new) o [responder a un _issue_ ya existente](https://github.com/argob/accesibilidad-web/issues).
 
 ### Recomendaciones y guías en formato pdf
 
@@ -33,6 +33,6 @@ Para ello podés [cargar un nuevo _issue_](https://github.com/argob/accesibilida
 
 ## Contacto
 
-Te invitamos a [crearnos un issue](https://github.com/argob/accesibilidad-web/new) en caso de que quieras proponer una mejora o reportar un error en alguna parte del repositorio `accesibilidad-web`.
+Te invitamos a [crearnos un issue](https://github.com/argob/accesibilidad-web/issues/new) en caso de que quieras proponer una mejora o reportar un error en alguna parte del repositorio `accesibilidad-web`.
 
 Para todo lo demás, podés mandarnos tu comentario o consulta a [accesibilidadweb@modernizacion.gob.ar](mailto:accesibilidadweb@modernizacion.gob.ar).
