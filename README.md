@@ -14,11 +14,11 @@ A continuación podés acceder a los recursos en distintos formatos.
 
 ### Poster "Diseñando y desarrollando webs y contenidos accesibles"
 
-* **[Diseñando y desarrollando webs y contenidos accesibles (formato pdf)](https://github.com/argob/accesibilidad-web/blob/master/docs/disenando_desarollando_webs_contenido_accesible.pdf)**
+* **[Diseñando y desarrollando webs y contenidos accesibles (formato pdf)](https://github.com/argob/accesibilidad-web/blob/master/docs/disenando_desarollando_webs_contenido_accesibles.pdf)**
 
-* **[Diseñando y desarrollando webs y contenidos accesibles (formato markdown)](https://github.com/argob/accesibilidad-web/blob/master/docs/dise%C3%B1ando_desarrollando_webs_contenido_accesible.md)**
+* **[Diseñando y desarrollando webs y contenidos accesibles (formato markdown)](https://github.com/argob/accesibilidad-web/blob/master/docs/dise%C3%B1ando_desarrollando_webs_contenido_accesibles.md)**
 
-* **[Diseñando y desarrollando webs y contenidos accesibles (formato Adobe Illustrator)](https://github.com/argob/accesibilidad-web/blob/master/docs/disenando_desarollando_webs_contenido_accesible.ai)**
+* **[Diseñando y desarrollando webs y contenidos accesibles (formato Adobe Illustrator)](https://github.com/argob/accesibilidad-web/blob/master/docs/disenando_desarollando_webs_contenido_accesibles.ai)**
 
 ### Recomendaciones para el cumplimiento de las Pautas de Accesibilidad Web
 

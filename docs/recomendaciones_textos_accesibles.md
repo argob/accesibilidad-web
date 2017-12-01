@@ -6,7 +6,7 @@
 <!-- END doctoc -->
 
 - [Introducción](#introducción)
-- [Recomendaciones básicas para documentos de texto en formatos ODT o DOCX](#recomendaciones-básicas-para-documentos-de-texto-en-formatos-odt-o-docx)
+- [Recomendaciones básicas para documentos de texto en formatos ODT o DOCX](#recomendaciones-b%C3%A1sicas-para-documentos-de-texto-en-formatos-odt-o-docx)
 - [Recomendaciones básicas para documentos de texto en formato PDF](#recomendaciones-b%C3%A1sicas-para-documentos-de-texto-en-formato-pdf)
 - [Exportación o guardado de documentos en formato PDF](#exportación-o-guardado-de-documentos-en-formato-pdf)
 - [Recursos para evaluar la accesibilidad de los documentos de texto](#recursos-para-evaluar-la-accesibilidad-de-los-documentos-de-texto)
