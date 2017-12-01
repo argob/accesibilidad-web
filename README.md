@@ -10,26 +10,38 @@ Es importante aclarar que si bien estos recursos (recomendaciones, guías, etc.)
 Estas recomendaciones son un trabajo colaborativo y en progreso. Invitamos a todas las organizaciones y ciudadanos a contribuir con ideas, sugerencias y comentarios que nos ayuden a mejorarlas. Trabajamos fuertemente para incluir referencias en castellano pero esto no ha sido posible en todos los casos, si encontraste alguna que hayamos puesto en otro idioma y podamos reemplazarla nos encantaría conocerla.
 Para ello podés [cargar un nuevo _issue_](https://github.com/argob/accesibilidad-web/issues/new) o [responder a un _issue_ ya existente](https://github.com/argob/accesibilidad-web/issues).
 
-### Recomendaciones y guías en formato pdf
+A continuación podés acceder a los recursos en distintos formatos.
+
+### Poster "Diseñando y desarrollando webs y contenidos accesibles"
+
+* **[Diseñando y desarrollando webs y contenidos accesibles (formato pdf)](https://github.com/argob/accesibilidad-web/blob/master/docs/disenando_desarollando_webs_contenido_accesible.pdf)**
+
+* **[Diseñando y desarrollando webs y contenidos accesibles (formato markdown)](https://github.com/argob/accesibilidad-web/blob/master/docs/dise%C3%B1ando_desarrollando_webs_contenido_accesible.md)**
+
+* **[Diseñando y desarrollando webs y contenidos accesibles (formato Adobe Illustrator)](https://github.com/argob/accesibilidad-web/blob/master/docs/disenando_desarollando_webs_contenido_accesible.ai)**
+
+### Recomendaciones para el cumplimiento de las Pautas de Accesibilidad Web
 
 * **[Recomendaciones para el cumplimiento de las Pautas de Accesibilidad Web (formato pdf)](https://github.com/argob/accesibilidad-web/blob/master/docs/recomendaciones_pautas_accesibilidad_web.pdf)**
 
+* **[Recomendaciones para el cumplimiento de las Pautas de Accesibilidad Web (formato markdown)](https://github.com/argob/accesibilidad-web/blob/master/docs/recomendaciones_pautas_accesibilidad_web.md)**
+
+### Guía rápida de Evaluación de Accesibilidad Web
+
 * **[Guía rápida de Evaluación de Accesibilidad Web (formato pdf)](https://github.com/argob/accesibilidad-web/blob/master/docs/guia_rapida_evaluacion_accesibilidad_web.pdf)**
 
+* **[Guía rápida de Evaluación de Accesibilidad Web (formato markdown)](https://github.com/argob/accesibilidad-web/blob/master/docs/guia_rapida_evaluacion_accesibilidad_web.md)**
+
+### Recomendaciones básicas para la redacción de documentos digitales de texto accesibles
+
 * **[Recomendaciones básicas para la redacción de documentos digitales de texto accesibles (formato pdf)](https://github.com/argob/accesibilidad-web/blob/master/docs/recomendaciones_textos_accesibles.pdf)**
-
-### Recomendaciones y guías en formato markdown
-
-* **[Recomendaciones para el cumplimiento de las Pautas de Accesibilidad Web (formato md)](https://github.com/argob/accesibilidad-web/blob/master/docs/recomendaciones_pautas_accesibilidad_web.md)**
-
-* **[Guía rápida de Evaluación de Accesibilidad Web (formato md)](https://github.com/argob/accesibilidad-web/blob/master/docs/guia_rapida_evaluacion_accesibilidad_web.md)**
 
 * **[Recomendaciones básicas para la redacción de documentos digitales de texto accesibles (formato md)](https://github.com/argob/accesibilidad-web/blob/master/docs/recomendaciones_textos_accesibles.md)**
 
 
 ## Estructura del repositorio
 
-* **docs**: recomendaciones y guías en formato markdown y pdf.
+* **docs**: recomendaciones y guías en distintos formatos.
 
 ## Contacto
 
