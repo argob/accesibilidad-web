@@ -90,6 +90,6 @@ Gráfico de la pantalla de una pc con los siguientes elementos: un rectángulo c
 
 ## Más sobre el poster
 
-Este trabajo se elaboró a partir de los posters disponibles en [el repositorio de github de UK Home Office](http://github.com/UKHomeOffice/posters/tree/master/accessibility) y se distribuye con la misma licencia Creative Commons que el documento original.
+Este trabajo se elaboró a partir de los posters disponibles en [el repositorio de github de UK Home Office](http://github.com/UKHomeOffice/posters/tree/master/accessibility) y se distribuye con la misma licencia Creative Commons que el documento original. En el desarrollo de los contenidos colaboramos junto al Equipo de la Coordinación de Usabilidad de la Dirección Nacional de Servicios Digitales de la Subsecretaría de Gobierno Digital.
 
 Para más información escribinos a accesibilidadweb@Modernizacion.gob.ar.
