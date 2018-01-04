@@ -33,6 +33,9 @@ A continuación podés acceder a los recursos en distintos formatos.
 * **[Recomendaciones básicas para la redacción de documentos digitales de texto accesibles (formato pdf)](https://github.com/argob/accesibilidad-web/blob/master/docs/recomendaciones_textos_accesibles.pdf)**
 * **[Recomendaciones básicas para la redacción de documentos digitales de texto accesibles (formato md)](https://github.com/argob/accesibilidad-web/blob/master/docs/recomendaciones_textos_accesibles.md)**
 
+### Testeando la accesibilidad web con NVDA
+
+* **[Testeando la accesibilidad web con NVDA (formato md)](https://github.com/argob/accesibilidad-web/blob/master/docs/funciones_nvda.md)**
 
 ## Estructura del repositorio
 
