@@ -1,6 +1,6 @@
 # Diseñando y desarrollando webs y contenidos accesibles
 
-El [poster "Diseñando y desarrollando webs y contenidos accesibles"](https://github.com/argob/accesibilidad-web/blob/master/docs/disenando_desarollando_webs_contenido_accesible.pdf) tiene por objeto presentar de manera gráfica y sencilla algunas pautas de accesibilidad web. 
+El [poster "Diseñando y desarrollando webs y contenidos accesibles"](https://github.com/argob/accesibilidad-web/blob/master/docs/disenando_desarrollando_webs_contenidos_accesibles.pdf) tiene por objeto presentar de manera gráfica y sencilla algunas pautas de accesibilidad web. 
 En la presente página el poster está disponible en formato markdown. Adicionalmente, también podés descargarla en [formato editable en Adobe illustrator](https://github.com/argob/accesibilidad-web/blob/master/docs/disenando_desarollando_webs_contenido_accesible.ai).
 
 ## Descripción del poster
