@@ -1,0 +1,309 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es">
+<title>Citylights Venta de Entradas</title>
+
+<link href="estilos/estilos.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <META charset="utf-8">
+    <SCRIPT type="text/javascript">
+      function ChangeColor(id, colour){
+        document.getElementById(id).style.backgroundColor=colour;
+      }
+      function switchImage(imgName, imgSrc){
+        if (document.images){
+          if (imgSrc != "none"){
+              document.images[imgName].src = imgSrc;
+          }
+        }
+      }
+    </SCRIPT> 
+    <NOSCRIPT><B><FONT COLOR=RED>Esta página usa scripts!!!</FONT></B></NOSCRIPT>
+<STYLE>
+      td , th{
+        color: #000000;
+        text-decoration: none;
+        font: 15px/15px "Times New Roman", Times, serif;
+      }
+      #principal .titulo {
+        color: #41545d;
+        font: 24px verdana;
+        font-family: impact;
+        text-decoration: none;
+      }
+      .precios td , .precios th{
+        font: 12px/12px "Times New Roman", Times, serif;
+      }
+      #terminos {
+        font-family: "Times New Roman", Times, serif;
+        text-transform:uppercase;
+        font-size: 13px;
+        line-height: 13px;
+        padding:0;
+        margin:0;  
+		
+      }
+	
+    </STYLE>
+
+    
+   
+</head>
+<body>
+
+    <TABLE WIDTH=100% BORDER=0px CELLSPACING=0px CELLPADDING=0px BGCOLOR=#D7D7CD><TR VALIGN=MIDDLE><TD WIDTH=100% ALIGN=CENTER>
+    <TABLE WIDTH=800px BORDER=0px CELLSPACING=0px CELLPADDING=0px BGCOLOR=WHITE>
+      <TR HEIGHT=10px>
+        <TD WIDTH=10px BACKGROUND=./img/border_left_top.gif><IMG SRC=./img/border_left_top.gif WIDTH=10px HEIGHT=10px></TD>
+        <TD WIDTH=780px BACKGROUND=./img/border_top.gif><IMG SRC=./img/border_top.gif HEIGHT=10px></TD>
+        <TD WIDTH=10px BACKGROUND=./img/border_right_top.gif><IMG SRC=./img/border_right_top.gif WIDTH=10px HEIGHT=10px></TD>
+      </TR>
+      <TR>
+        <TD WIDTH=10px BACKGROUND=./img/border_left.gif><IMG SRC=./img/border_left.gif WIDTH=10px></TD>
+        <TD WIDTH=780px ALIGN=CENTER>
+    <TABLE WIDTH=780px HEIGHT=144px BORDER=0px CELLSPACING=0px CELLPADDING=0px BGCOLOR=WHITE>
+      <TR HEIGHT=86px>
+        <TD WIDTH=443px BACKGROUND=./img/top_logo_next.gif VALIGN=MIDDLE><h1><IMG BORDER=0 SRC=./img/toplogo.png WIDTH=443px HEIGHT=86px ALT="Citylights, sólo un sitio de pruebas de accesibilidad web"></h1></TD>
+        <TD WIDTH=24px VALIGN=MIDDLE><IMG SRC=./img/top_logo_next_end.gif WIDTH=24px HEIGHT=86px></TD>
+        <TD WIDTH=128px VALIGN=MIDDLE><IMG SRC=./img/top_weather.gif WIDTH=128px HEIGHT=86px></TD>
+        <TD WIDTH=22px VALIGN=MIDDLE><IMG SRC=./img/top_logo_next_start.gif WIDTH=22px HEIGHT=86px></TD>
+        <TD WIDTH=163px BACKGROUND=./img/top_logo_next.gif ALIGN=CENTER VALIGN=bottom>
+         <form action="servicios.php" method="get">
+          <SELECT name="servicios" id="servicios">
+            <OPTION value="" selected="selected">Acceso rápido ----&gt;</OPTION>
+            <OPTION VALUE="externo.html">Agua potable</OPTION>
+            <OPTION VALUE="externo.html">Arquitectura</OPTION>
+            <OPTION VALUE="externo.html">Asistencia social</OPTION>
+            <OPTION VALUE="externo.html">Atención médica</OPTION>
+            <OPTION VALUE="externo.html">Bibliotecas</OPTION>
+            <OPTION VALUE="externo.html">Bomberos</OPTION>
+            <OPTION VALUE="externo.html">Educación</OPTION>
+            <OPTION VALUE="externo.html">Electricidad</OPTION>
+            <OPTION VALUE="externo.html">Guarderías</OPTION>
+            <OPTION VALUE="externo.html">Policía</OPTION>
+            <OPTION VALUE="externo.html">Residuos</OPTION>
+            <OPTION VALUE="externo.html">Servicio de gas</OPTION>
+            <OPTION VALUE="externo.html">Telecomunicaciones</OPTION>
+            <OPTION VALUE="externo.html">Televisión</OPTION>
+            <OPTION VALUE="externo.html">Transportes</OPTION>
+          </SELECT>
+          <input type="submit" value="Ir a" style="margin-top:10px">
+         </form> 
+        </TD>
+      </TR>
+      <TR HEIGHT=7px>
+        <TD WIDTH=780px BACKGROUND=./img/mark.gif COLSPAN=5><IMG SRC=./img/mark.gif WIDTH=158px HEIGHT=7px></TD>
+      </TR>
+      <TR HEIGHT=25px>
+        <TD COLSPAN=5>
+          <TABLE WIDTH=780px BORDER=0px CELLSPACING=0px CELLPADDING=0px>
+            <TR HEIGHT=25px>
+              <TD BGCOLOR="#EDEDED" WIDTH=380px><FONT COLOR=BLACK FACE=Verdana SIZE=2>&nbsp;&nbsp;<B>Tránsito:</B> Obras en la Avenida Central</FONT></TD>
+              <TD BGCOLOR="#FFFFFF" ALIGN=RIGHT ID="WEATHER"><FONT COLOR=BLACK FACE=Verdana SIZE=2><B>Hoy:</B> 
+               <SCRIPT LANGUAGE="JavaScript">
+                  var now = new Date();
+                  var days = new Array('Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado');
+                  var months = new Array('Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre');
+                  var date = ((now.getDate()<10) ? "0" : "")+ now.getDate();
+                  function fourdigits(number)	{
+                    return (number < 1000) ? number + 1900 : number;
+                  }
+                  today =  days[now.getDay()] + " " + date + " " + months[now.getMonth()] + " " + (fourdigits(now.getYear())) + ", Soleado, 23&deg;C&nbsp;&nbsp;</FONT>";
+                  document.all.WEATHER.setAttribute("BGCOLOR", "#EDEDED", 0);
+                  document.write(today);
+                </SCRIPT> </TD>
+            </TR>
+          </TABLE>
+        </TD>
+      </TR>
+      <TR HEIGHT=1px>
+        <TD WIDTH=780px BACKGROUND=./img/marker2_w.gif COLSPAN=5><IMG SRC=.img/marker2_w.gif WIDTH=78px HEIGHT=1px></TD>
+      </TR>
+      <TR HEIGHT=25px>
+        <TD COLSPAN=5>&nbsp;</TD>
+      </TR>
+    </TABLE>
+    <TABLE WIDTH=780px BORDER=0px CELLSPACING=0px CELLPADDING=0px BGCOLOR=WHITE>
+      <TR WIDTH=780px>
+        <TD WIDTH=155px BGCOLOR=#E4E4E4 VALIGN=TOP>
+          
+          <!-- INICIO MENU  -->
+          
+          <ul id="menu">
+         	<li class="inicio1"><a href="index.html">Inicio</a></li>
+            <li class="noticias"><a href="noticias.html">Noticias</a></li>
+            <li class="entradas-en">Entradas</a></li>
+            <li class="encuestas"><a href="encuesta.html">Encuesta</a></li>
+		  </ul>
+          <!--  FIN DE MENU  -->
+          
+        </TD>
+        <TD WIDTH=20px><IMG SRC=./img/blank_5x5.gif WIDTH=20px HEIGHT=5px></TD>
+        <TD WIDTH=625px HEIGHT="600px" VALIGN=TOP id="principal">
+         <h2 class="titulo">Entradas para Recitales en Citylights</h2>
+          <table style="border; border: 1px dashed Silver; margin:0px;" width="600px">
+            <tr>
+              <td><p>Citylights en asociación con Humo Entretenimiento S.A. se complace en anunciar precios especiales para las entradas de estos grandes artistas - <i><b>Los Enfermeros y The Great Obelisk.</b></i></p>
+              <p>Estas <big style="font-weight:bold;">ofertas especiales</big> son exclusivas para Citylights y se pueden comprar sólo llamando a nuestra línea de entradas:</p></td>
+              <td valign="top" align="center" width="300px">
+                  <table width="250px" border="1" bordercolor="#C0C0C0" rules="rows" summary="fechas de los recitales">
+                  <caption>Fechas de los recitales</caption>
+                  <tr>
+                  
+                    <th scope="col"><b><font color="41545D">Recital</font></b></th>
+                     <th scope="col">Día</th>
+                  </tr>
+                  
+                  <tr>
+                  
+                    <th scope="row"><font color="41545D">Los Enfermeros</font></th>
+                     <td>24/3/13</td>
+                  </tr>
+                  <tr>
+                                     
+                    <th scope="row"><font color="41545D">The Great Obelisk</font></th>
+                    <td>12/2/13</td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr bgcolor="#EDEDED">
+              <td colspan="2" align="center">
+                <table width="590px" cellpadding="0" cellspacing="0" border="0">
+                  <td valign="middle" align="right" width="490px" style="border:0px;margin:0px;padding:0px;"><h3>Compre entradas llamando a la línea de la <span class="musica">musica</span> ---- llame ya!:&nbsp;</h3></td>
+                  <td valign="middle" align="left" width="100px" style="border:0px;margin:0px;padding:0px;"><DIV><img src="./img/telefon_lightgrey_bg.gif" alt="Telefono numero 0810-12345" border="0" valign="absmiddle"></div></td>
+                </table>
+              </td>
+            </tr>
+          </table>
+         
+          <h2 class=titulo>Lista de Precios</h2>
+        
+         
+          <table width="600" cellspacing="0" class="precios">
+            <caption>Adultos</caption>
+  
+  <tr>
+    <th width="243" scope="col">Recital</th>
+    <th width="104" scope="col">Preferencial</th>
+    <th width="85" scope="col">Butaca</th>
+    <th width="80" scope="col">Mesa</th>
+    <th width="76" scope="col">Pie</th>
+  </tr>
+  <tr>
+    <th scope="row"><b><font color="41545D">Los Enfermeros - Mono, mono</font></b></th>
+              <td><font color="41545D">$ 20.90</font></td>
+              <td><font color="41545D">$ 20.90.-</font></td>
+              <td><font color="41545D">$ 20.90</font></td>
+    <td><font color="41545D">$ 20.90</font></td>
+  </tr>
+  <tr>
+     <th scope="row"><b><font color="41545D">The Great Obelisk - At the beach</font></b></th>
+              <td><font color="41545D">$ 20.90</font></td>
+              <td><font color="41545D">$ 27.90</font></td>
+              <td><font color="41545D">$ 30.90</font></td>
+    <td><font color="41545D">$ 33.90</font></td>
+  </tr>
+</table>
+
+          <p>&nbsp;</p>
+          <table width="600" cellspacing="0" class="precios">
+   <caption>Estudiantes y ancianos</caption>
+  
+  <tr>
+    <th width="243" scope="col">Recital</th>
+    <th width="104" scope="col">Preferencial</th>
+    <th width="85" scope="col">Butaca</th>
+    <th width="80" scope="col">Mesa</th>
+    <th width="76" scope="col">Pie</th>
+  </tr>
+  <tr>
+    <th scope="row"><b><font color="41545D">Los Enfermeros - Mono, mono</font></b></th>
+              <td><font color="41545D">$ 20.90</font></td>
+              <td><font color="41545D">$ 20.90</font></td>
+              <td><font color="41545D">$ 20.90</font></td>
+    <td><font color="41545D">$ 20.90</font></td>
+  </tr>
+  <tr>
+     <th scope="row"><b><font color="41545D">The Great Obelisk - At the beach</font></b></th>
+              <td><font color="41545D">$ 20.90</font></td>
+              <td><font color="41545D">$ 27.90</font></td>
+              <td><font color="41545D">$ 30.90</font></td>
+    <td><font color="41545D">$ 33.90</font></td>
+  </tr>
+</table>         
+         
+          <p>&nbsp;</p>
+          <table width="600" cellspacing="0" class="precios">
+   <caption>
+   Grupo (5 <span>o</span> más)
+   </caption>
+  
+  <tr>
+    <th width="243" scope="col">Recital</th>
+    <th width="104" scope="col">Preferencial</th>
+    <th width="85" scope="col">Butaca</th>
+    <th width="80" scope="col">Mesa</th>
+    <th width="76" scope="col">Pie</th>
+  </tr>
+  <tr>
+    <th scope="row"><b><font color="41545D">Los Enfermeros - Mono, mono</font></b></th>
+              <td><font color="41545D">$ 14.90</font></td>
+              <td><font color="41545D">$ 14.90</font></td>
+              <td><font color="41545D">$ 14.90</font></td>
+    <td><font color="41545D">$ 14.90</font></td>
+  </tr>
+  <tr>
+     <th scope="row"><b><font color="41545D">The Great Obelisk - At the beach</font></b></th>
+              <td><font color="41545D">$ 14.90</font></td>
+              <td><font color="41545D">$ 20.90</font></td>
+              <td><font color="41545D">$ 22.90</font></td>
+    <td><font color="41545D">$ 23.90</font></td>
+  </tr>
+</table>
+       
+       
+          <table style="border:1px dashed silver;border-bottom:none;margin-top: 25px;" bgColor=#ededed width=600px>
+            <tr><td align="center">
+              <table width="590px" cellpadding="0" cellspacing="0" border="0">
+                  <td valign="middle" align="right" width="490px" style="border:0px;margin:0px;padding:0px;"><h3>Compre entradas llamando a la línea de la <span class="musica">musica</span> ---- llame ya!:&nbsp;</h3></td>
+                  <td valign="middle" align="left" width="100px" style="border:0px;margin:0px;padding:0px;"><DIV><img src="./img/telefon_lightgrey_bg.gif" alt="Telefono numero 0810-12345" border="0" valign="absmiddle"></div></td>
+                </table>
+            </td></tr>
+            <tr bgcolor="#ffffff" >
+              <td style="padding:20px 5px 5px 5px"><div style="text-align: center;"><font size="5"><h2 class="titulo">Citylights Términos y Condiciones</h2></font></div>
+			  <p id="terminos" align="justify">
+              	 <ol style=”list­style­type:upper­roman”> 
+              	   <li>Usted acuerda mediante el acto de llamar a la línea música o al leer cualquier parte de estos términos y condiciones que usted no, ahora o nunca, (A) transmitirá cualquier material a cualquier persona, viva o muerta, que sea considerable por esa persona como difamatorio, dañino, ilegal, argumentativo o confuso, y que además (B) cualquier semejanza entre usted o su familia y las personas, los vehículos o instrumentos musicales vivos, muertos, y otros que aparecen en el sitio Citylights es totalmente involuntaria y que de haber parecidos entonces usted tomará medidas inmediatas para evitar que este tipo de semejanza ocurra de nuevo.</li>
+              	   <li>Citylights no será responsable por  cualquier daño o pérdida de ingresos, buena voluntad, entusiasmo o  tono de piel que surja de o en conexión con el uso o la otra  interacción con (A) los sitios web de Citylights, (B) las reseñas  acerca del sitio Citylights, (C) los empleados o empleados potenciales  de Citylights pasados o presentes, o (D) cualquier sitio web con  enlaces a o vinculados desde el sitio web Citylights, directamente o a  través de otros sitios web</li>
+              	   <li>Remedios legales. ya que  Citylights sufriría daños irreparables a un grado imprevisible si  las secciones [1] y [2] no son específicamente forzadas, Citylights  tendrá derecho sin mediar fianza u otra garantía ni prueba de  daños, a disponer de recursos equitativos y adecuados con respecto a  incumplimientos de estas secciones, además de otros recursos de que  pudiera disponer. </li>
+              	  
+            	   </ol>
+              	 </td>
+            </tr>
+          </table>
+        
+        </TD>
+      </TR>
+    </TABLE>
+    <TABLE WIDTH=780px HEIGHT=17px BORDER=0px CELLSPACING=0px CELLPADDING=0px BGCOLOR=#EDEDED>
+      <TR HEIGHT=17px>   
+        <TD>
+           <p><a rel="Copyright" href="http://www.w3.org/Consortium/Legal/ipr-notice#Copyright">Copyright</a> &copy; 2012 <a href="http://www.w3.org/"><acronym title="World Wide Web Consortium">W3C</acronym></a><sup>&reg;</sup> (<a href="http://www.csail.mit.edu/"><acronym title="Massachusetts Institute of Technology">MIT</acronym></a>, <a href="http://www.ercim.org/"><acronym title="European Research Consortium for Informatics and Mathematics">ERCIM</acronym></a>, <a href="http://www.keio.ac.jp/">Keio</a>), This document includes material copied from or derived from <a href="https://www.w3.org/WAI/demos/bad/Overview.html">"Before and After Demonstration - Improving a Web site using WCAG 2.0”</a></p>
+        </TD>
+       </TR>
+      <TR HEIGHT=17px>
+        <TD ALIGN=RIGHT><FONT COLOR=BLACK FACE=Verdana SIZE=1><a rel="Copyright" href="http://www.w3.org/Consortium/Legal/ipr-notice#Copyright">Derechos reservados</a> &copy; 2012 <a href="http://www.w3.org/"><acronym title="World Wide Web Consortium">W3C</acronym></a>&reg;</FONT></TD>
+      </TR>
+    </TABLE>
+        <TD WIDTH=10px BACKGROUND=./img/border_right.gif><IMG SRC=./img/border_right.gif WIDTH=10px></TD>
+      </TR>
+      <TR HEIGHT=10px>
+        <TD WIDTH=10px HEIGHT=10px BACKGROUND=./img/border_bottom_left.gif><IMG SRC=./img/border_bottom_left.gif WIDTH=10px HEIGHT=10px></TD>
+        <TD WIDTH=780px HEIGHT=10px BACKGROUND=./img/border_bottom.gif><IMG SRC=./img/border_bottom.gif HEIGHT=10px></TD>
+        <TD WIDTH=10px HEIGHT=10px BACKGROUND=./img/border_bottom_right.gif><IMG SRC=./img/border_bottom_right.gif WIDTH=10px HEIGHT=10px></TD>
+      </TR>
+    </TABLE>
+    </TD></TR></TR></TABLE>
+    
+  </body>
+</html>
