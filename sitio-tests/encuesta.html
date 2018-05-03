@@ -226,10 +226,10 @@ $("form#signup").submit(function(event){
     event.preventDefault();
     $('#signup [role=alert]').html('');
     $("[aria-required=true]").each(function(){ $(this).removeAttr('aria-invalid'); });
-    if (!$('#nombre').val() || !$('#apellido').val() || !$('[type=email]').val()|| !$('[type=tel]').val()) {$('#signup [role=alert]').append('<h3 tabindex="-1">Hay errores en el formulario que estás intentando enviar, chequeá lo siguiente:</h3><ol id="errorsList"></ol>');};
-    if (!$('#nombre').val()) {$('#errorsList').append('<li>El nombre está incompleto</li>');};
-    if (!$('#apellido').val()) {$('#errorsList').append('<li>El apellido está incompleto</li>');};
-    if (!$('[type=email]').val()) {$('#errorsList').append('<li>La dirección de email está incompleta</li>');};
+    if (!$('#nombre').val() || !$('#apellido').val() || !$('[type=email]').val()) {$('#signup [role=alert]').append('<h3 tabindex="-1">Hay errores en el formulario que estás intentando enviar, chequeá lo siguiente:</h3><ol id="errorsList"></ol>');};
+    if (!$('#nombre').val()) {$('#errorsList').append('<li>El nombre está incompleto (ej: Juan)</li>');};
+    if (!$('#apellido').val()) {$('#errorsList').append('<li>El apellido está incompleto (ej: López)</li>');};
+    if (!$('[type=email]').val()) {$('#errorsList').append('<li>La dirección de email está incompleta (ej: JuanLopez@miemail.com)</li>');};
     $("[aria-required=true]").each(function(){ if (!$(this).val()) {$(this).attr('aria-invalid','true');};
  });
     if ($('#nombre').val() && $('#apellido').val() && $('[type=email]').val()) {$('#signup [role=alert]').append('<h3 tabindex="-1">Gracias! El formulario ha sido completado con éxito.</h3>'); };
