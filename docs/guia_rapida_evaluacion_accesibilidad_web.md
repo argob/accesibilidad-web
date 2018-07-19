@@ -130,7 +130,7 @@ Alternativamente, para verificar puede utilizarse la "Web Developer toolbar":
 
 1. Abrir la página web a chequear.
 
-2. En la barra, seleccionar "Information", luego "View page information". Se abre una ventana.
+2. En la barra, seleccionar "Tools", luego "View Source". Se abre una ventana.
 
 3. Verificar.
 
