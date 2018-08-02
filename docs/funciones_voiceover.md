@@ -37,3 +37,7 @@ Nota: el “rotor” permite navegar rápidamente por los elementos más comunes
 | Tablas | T |
 | Botones | B |
 | Listas | X |
+
+## Créditos
+
+Colaboraron con la ONTI en el armado de este documento y en los testeos con VoiceOver [Denise Friedenbach](https://www.linkedin.com/in/denise-friedenbach-71712ab/) y [Emilce Iannizzotto](https://www.linkedin.com/in/emilce-iannizzotto/).
