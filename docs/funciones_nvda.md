@@ -2,7 +2,7 @@
 
 Desde la ONTI recomendamos testear las páginas web con el [lector de pantalla NVDA](https://www.nvaccess.org/). Este software puede descargarse gratuitamente y es de código abierto.
 
-En las tablas a continuación puede verse un listado de las principales funciones. Recomendamos especialmente las funciones agrupadas bajo el título "funciones de navegación" y en particular la verificación de la "lista de elementos" (encabezados, enlaces y puntos de referencia).
+En las tablas a continuación puede verse un listado de las principales funciones. Recomendamos especialmente las funciones agrupadas bajo el título "Funciones de navegación" y en particular la verificación de la "Lista de elementos" (encabezados, enlaces y puntos de referencia).
 
 Si sos un usuario sin experiencia en NVDA tené en cuenta dos cuestiones importantes:
 
