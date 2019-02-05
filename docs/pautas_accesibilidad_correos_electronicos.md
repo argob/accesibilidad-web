@@ -25,11 +25,11 @@ La primera fila es el encabezado de la tabla y en las filas restantes se indican
 
 ## Principales referencias
 
-* [Manual de buenas prácticas en discapacidad] (https://www.argentina.gob.ar/modernizacion/empleadopublico/discapacidad/buenaspracticas)
+* [Manual de buenas prácticas en discapacidad](https://www.argentina.gob.ar/modernizacion/empleadopublico/discapacidad/buenaspracticas)
 
-* [Manual de comunicación inclusiva. Buenas prácticas para comunicadores y comunicadoras] (http://inadi.gob.ar/contenidos-digitales/wp-content/uploads/2019/01/discapacidad.pdf)
+* [Manual de comunicación inclusiva. Buenas prácticas para comunicadores y comunicadoras](http://inadi.gob.ar/contenidos-digitales/wp-content/uploads/2019/01/discapacidad.pdf)
 
-* [Recomendaciones básicas para la redacción de documentos digitales de texto accesibles] (https://github.com/argob/accesibilidad-web/blob/master/docs/recomendaciones_textos_accesibles.md)
+* [Recomendaciones básicas para la redacción de documentos digitales de texto accesibles](https://github.com/argob/accesibilidad-web/blob/master/docs/recomendaciones_textos_accesibles.md)
 
 
 ## Aclaraciones importantes
