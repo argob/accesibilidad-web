@@ -1,26 +1,25 @@
 # Guía de Comunicación Inclusiva en correos electrónicos: 10 pautas básicas de accesibilidad
 
-Está guía busca resolver una problemática muy generalizada, el envío de correos electrónicos que no respetan las pautas básicas de accesibilidad. Por sólo citar un ejemplo: las invitaciones a eventos en formato imagen o los archivos adjuntos en PDF no exportados con opciones de accesibilidad habilitadas, no pueden ser leídos por personas ciegas que para acceder al contenido utilizan lectores de pantalla.
+Está guía busca resolver una problemática muy generalizada, el envío de correos electrónicos que no respetan pautas básicas de accesibilidad. Por sólo citar un ejemplo: las invitaciones a eventos en formato imagen o los archivos adjuntos en PDF no exportados con opciones de accesibilidad habilitadas, no pueden ser leídos por personas ciegas que para acceder al contenido utilizan lectores de pantalla.
+
 Respetar las pautas de accesibilidad hará el contenido accesible para personas con discapacidad y seguramente facilitará también el acceso de personas sin discapacidad.
 
 ## 10 pautas básicas de accesibilidad en correos electrónicos
 
 La tabla presentada a continuación se divide en tres columnas: la primera indica un elemento o aspecto del correo electrónico, la segunda lo que no es correcto y la tercera lo que es correcto de acuerdo a las pautas de accesibilidad.
+
 La primera fila es el encabezado de la tabla y en las filas restantes se indican 10 pautas a considerar al momento de redactar un correo electrónico.
 
 | **Elemento del correo electrónico** | **No es correcto** | **Es correcto** |
 | --- | --- | --- |
 | Terminología | Discapacitados; Capacidades diferentes; Minusválidos; etc. | Personas con discapacidad / Personas sin discapacidad |
 | Lenguaje | Complejo. Párrafos largos y lenguaje técnico. | Sencillo. Oraciones cortas y directas. |
-| Tipo y tamaño de fuente e interlineado. | De lectura difícil. Comic Sans, Gothic u otra. 
-Letra pequeña e interlineado sencillo.
- | De lectura clara. Arial, Times New Roman, Calibri u otra.
-Mínimo de 12 puntos de tamaño de letra e interlineado 1.5.
- |
+| Tipo y tamaño de fuente e interlineado. | De lectura difícil. Comic Sans, Gothic u otra. Letra pequeña e interlineado sencillo.
+ | De lectura clara. Arial, Times New Roman, Calibri u otra. Mínimo de 12 puntos de tamaño de letra e interlineado 1.5. |
 | Estilo y estructura | Usar párrafos tanto para títulos como para texto simple, diferenciándolos sólo por color o tamaño de letra. | Usar los estilos predeterminados del cliente de correo. Ejemplo: Título 1, Título 2, párrafo, etc. |
-| Contraste de color | Bajo contraste entre el texto y el fondo. | Alto contraste entre el texto y el fondo. |
+| Contraste de color | Bajo contraste entre el texto y el fondo. | Alto contraste entre el texto y el fondo. | 
 | Imágenes y logos | Sin texto alternativo. | Con texto alternativo. |
-| Enlaces | Poco informativos. Ejemplo: ver más, descargar, click aquí, etc. | Descriptivos. Ejemplo: descargá el formulario de postulación, etc. |
+| Enlaces | Poco informativos. Ejemplo: ver más, descargar, click aquí, etc. | Descriptivos. Ejemplo: descargá el formulario de postulación, etc. | 
 | Archivos adjuntos  | Los archivos adjuntos no son accesibles. Ejemplos:
 *	Word. No adecuados a Recomendaciones y no válidos según el Comprobador de Accesibilidad.
 *	PDF. En formato imagen o exportado sin opciones de accesibilidad.
