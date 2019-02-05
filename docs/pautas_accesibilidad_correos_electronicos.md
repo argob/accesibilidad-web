@@ -14,23 +14,17 @@ La primera fila es el encabezado de la tabla y en las filas restantes se indican
 | --- | --- | --- |
 | Terminología | Discapacitados; Capacidades diferentes; Minusválidos; etc. | Personas con discapacidad / Personas sin discapacidad |
 | Lenguaje | Complejo. Párrafos largos y lenguaje técnico. | Sencillo. Oraciones cortas y directas. |
-| Tipo y tamaño de fuente e interlineado. | De lectura difícil. Comic Sans, Gothic u otra. Letra pequeña e interlineado sencillo.
- | De lectura clara. Arial, Times New Roman, Calibri u otra. Mínimo de 12 puntos de tamaño de letra e interlineado 1.5. |
+| Tipo y tamaño de fuente e interlineado. | De lectura difícil. Comic Sans, Gothic u otra. Letra pequeña e interlineado sencillo. | De lectura clara. Arial, Times New Roman, Calibri u otra. Mínimo de 12 puntos de tamaño de letra e interlineado 1.5. |
 | Estilo y estructura | Usar párrafos tanto para títulos como para texto simple, diferenciándolos sólo por color o tamaño de letra. | Usar los estilos predeterminados del cliente de correo. Ejemplo: Título 1, Título 2, párrafo, etc. |
 | Contraste de color | Bajo contraste entre el texto y el fondo. | Alto contraste entre el texto y el fondo. | 
 | Imágenes y logos | Sin texto alternativo. | Con texto alternativo. |
 | Enlaces | Poco informativos. Ejemplo: ver más, descargar, click aquí, etc. | Descriptivos. Ejemplo: descargá el formulario de postulación, etc. | 
-| Archivos adjuntos  | Los archivos adjuntos no son accesibles. Ejemplos:
-*	Word. No adecuados a Recomendaciones y no válidos según el Comprobador de Accesibilidad.
-*	PDF. En formato imagen o exportado sin opciones de accesibilidad.
- | Los archivos adjuntos son accesibles. Ejemplos:
-*	Word. Adecuados a [Recomendaciones](https://github.com/argob/accesibilidad-web/blob/master/docs/recomendaciones_textos_accesibles.md) y válidos según el [Comprobador de Accesibilidad](https://github.com/argob/accesibilidad-web/blob/master/docs/recomendaciones_textos_accesibles.md#evaluar-la-accesibilidad-de-documentos-en-formatos-odt-y-docx).
-*	PDF. En formato texto, exportado [con opciones de accesibilidad habilitadas](https://github.com/argob/accesibilidad-web/blob/master/docs/recomendaciones_textos_accesibles.md#exportaci%C3%B3n-o-guardado-de-documentos-en-formato-pdf).
- |
+| Archivos adjuntos  | Los archivos adjuntos no son accesibles. Ejemplos: *	Word. No adecuados a Recomendaciones y no válidos según el Comprobador de Accesibilidad. *	PDF. En formato imagen o exportado sin opciones de accesibilidad. | Los archivos adjuntos son accesibles. Ejemplos: *	Word. Adecuados a [Recomendaciones](https://github.com/argob/accesibilidad-web/blob/master/docs/recomendaciones_textos_accesibles.md) y válidos según el [Comprobador de Accesibilidad](https://github.com/argob/accesibilidad-web/blob/master/docs/recomendaciones_textos_accesibles.md#evaluar-la-accesibilidad-de-documentos-en-formatos-odt-y-docx).
+*	PDF. En formato texto, exportado [con opciones de accesibilidad habilitadas](https://github.com/argob/accesibilidad-web/blob/master/docs/recomendaciones_textos_accesibles.md#exportaci%C3%B3n-o-guardado-de-documentos-en-formato-pdf).  |
 | Contenido Multimedia | Sin subtítulos y/o descripción textual. | Con subtítulos y/o transcripciones. |
 | Versión texto plano | Versión HTML del correo, con imágenes, formatos no totalmente adecuado a estándares.  | Se adjunta al correo una versión en texto plano con toda la información contenida en el correo.  |
 
-## Principales Referencias
+## Principales referencias
 
 * [Manual de buenas prácticas en discapacidad] (https://www.argentina.gob.ar/modernizacion/empleadopublico/discapacidad/buenaspracticas)
 
@@ -42,7 +36,7 @@ La primera fila es el encabezado de la tabla y en las filas restantes se indican
 ## Aclaraciones importantes
 
 Este documento:
-* cita algunas pautas que consideramos importantes Es decir, no se trata de un listado exhaustivo. 
+* cita algunas pautas que consideramos importantes. Es decir, no se trata de un listado exhaustivo. 
 * aborda la Comunicación Inclusiva desde la accesibilidad de los correos electrónicos, no incluyendo otros aspectos como la perspectiva de género o la comunicación por otros medios.
 
 ## Contacto
