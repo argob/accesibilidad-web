@@ -38,6 +38,8 @@ A continuación podés acceder a los recursos en distintos formatos.
 
 * **[Guía de Comunicación Inclusiva en correos electrónicos: 10 pautas básicas de accesibilidad](https://github.com/argob/accesibilidad-web/blob/master/docs/pautas_accesibilidad_correos_electronicos.md#gu%C3%ADa-de-comunicaci%C3%B3n-inclusiva-en-correos-electr%C3%B3nicos-10-pautas-b%C3%A1sicas-de-accesibilidad)**
 
+* **[Guía de Comunicación Inclusiva en correos electrónicos: 10 pautas básicas de accesibilidad - Versión corta - PDF imprimible](https://github.com/argob/accesibilidad-web/blob/master/docs/pautas_accesibilidad_correos_electronicos.md#gu%C3%ADa-de-comunicaci%C3%B3n-inclusiva-en-correos-electr%C3%B3nicos-10-pautas-b%C3%A1sicas-de-accesibilidad)**
+
 ### Testeando la accesibilidad web con lectores de pantalla
 
 * **[Testeando la accesibilidad web con NVDA (formato md)](https://github.com/argob/accesibilidad-web/blob/master/docs/funciones_nvda.md)**
