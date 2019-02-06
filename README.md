@@ -36,9 +36,13 @@ A continuación podés acceder a los recursos en distintos formatos.
 
 ### Guía de Comunicación Inclusiva en correos electrónicos: 10 pautas básicas de accesibilidad
 
-* **[Guía de Comunicación Inclusiva en correos electrónicos: 10 pautas básicas de accesibilidad](https://github.com/argob/accesibilidad-web/blob/master/docs/pautas_accesibilidad_correos_electronicos.md#gu%C3%ADa-de-comunicaci%C3%B3n-inclusiva-en-correos-electr%C3%B3nicos-10-pautas-b%C3%A1sicas-de-accesibilidad)**
 
-* **[Guía de Comunicación Inclusiva en correos electrónicos: 10 pautas básicas de accesibilidad - Versión corta - PDF imprimible](https://github.com/argob/accesibilidad-web/blob/master/docs/pautas_accesibilidad_correos_electronicos.md#gu%C3%ADa-de-comunicaci%C3%B3n-inclusiva-en-correos-electr%C3%B3nicos-10-pautas-b%C3%A1sicas-de-accesibilidad)**
+* **[Guía de Comunicación Inclusiva en correos electrónicos: 10 pautas básicas de accesibilidad - Versión corta - PDF imprimible](https://github.com/argob/accesibilidad-web/blob/master/docs/Gu%C3%ADa%20de%20Comunicaci%C3%B3n%20Inclusiva%20en%20correos%20electr%C3%B3nicos%20-%2010%20pautas%20b%C3%A1sicas%20de%20accesibilidad%20-%20versi%C3%B3n%20imprimible%20-%201%20p%C3%A1gina.pdf)**
+
+* **[Guía de Comunicación Inclusiva en correos electrónicos: 10 pautas básicas de accesibilidad - Versión PDF](https://github.com/argob/accesibilidad-web/blob/master/docs/pautas_accesibilidad_correos_electronicos.md#gu%C3%ADa-de-comunicaci%C3%B3n-inclusiva-en-correos-electr%C3%B3nicos-10-pautas-b%C3%A1sicas-de-accesibilidad.pdf)**
+
+* **[Guía de Comunicación Inclusiva en correos electrónicos: 10 pautas básicas de accesibilidad - Versión web](https://github.com/argob/accesibilidad-web/blob/master/docs/pautas_accesibilidad_correos_electronicos.md#gu%C3%ADa-de-comunicaci%C3%B3n-inclusiva-en-correos-electr%C3%B3nicos-10-pautas-b%C3%A1sicas-de-accesibilidad)**
+
 
 ### Testeando la accesibilidad web con lectores de pantalla
 
