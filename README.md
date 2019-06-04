@@ -50,6 +50,17 @@ A continuación podés acceder a los recursos en distintos formatos.
 
 * **[Testeando la accesibilidad web con VoiceOver (formato md)](https://github.com/argob/accesibilidad-web/blob/master/docs/funciones_voiceover.md)**
 
+## Desafíos de Accesibilidad Tecnológica - Cumbre Global de Discapacidad
+
+Estos son los Desafíos que propusimos a los participantes que se acercaron a nuestro stand en la Cumbre Global de Discapacidad - Argentina (6, 7 y 8 de junio de 2019).
+
+* **[ Desafío #1 - Redactá un documento usando la voz](https://docs.google.com/document/d/1-YW3E8cDVWAiPKY066naU7nYGmiQ4ynTZ9IZyJ5jIOA/edit?usp=sharing)**
+* **[ Desafío #2 - Suscribite a nuestro newsletter usando un lector de pantalla](https://docs.google.com/document/d/1LeIS-v7LRSLqK_uawxQBTcMabPgDXWkPNKvkyj1YAEg/edit?usp=sharing)**
+* **[ Desafío #3 - Hacé que tu dispositivo lea por vos](https://docs.google.com/document/d/1rEm5EhTqxDoAYylM2sn_s2oeN4ey7RQxUNMEy17hIqc/edit?usp=sharing)**
+* **[ Desafío #4 - Evaluá la accesibilidad de un sitio web](https://docs.google.com/document/d/12hygnuYaeblWVi8Y1GQXC-0aeAbNaLIszzn8Ci5mZ6c/edit?usp=sharing)**
+* **[ Desafío #5 - Escribí sin usar el teclado
+](https://docs.google.com/document/d/1fKpnpBlHZ18-zrHkPvH0fi9HvYVU88B7lg9T9n98SrU/edit?usp=sharing)**
+
 ## Estructura del repositorio
 
 * **docs**: recomendaciones y guías en distintos formatos.
