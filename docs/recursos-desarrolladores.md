@@ -1,5 +1,5 @@
 
-# Accesibilidad - Recursos para desarrolladores
+# Accesibilidad Web - Recursos para desarrolladores
 
 Se listan algunas webs en las que pueden obtenerse recursos orientados a desarrolladores, en dos categorias: componentes y validadores. Componentes accesibles que pueden ser facilmente reutilizados. Validadores de accesibilidad que pueden ayudar a detectar problemas de accesibilidad en las etapas de desarrollo o testing.
 Tené en cuenta que, excepto el de la W3C, no son recursos "oficiales",  por lo que pueden requerir testeo adicional, pero son sin duda un buen punto de partida.

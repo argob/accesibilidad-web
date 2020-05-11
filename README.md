@@ -61,6 +61,10 @@ A continuación podés acceder a los recursos en distintos formatos.
 
 * **[Testeando la accesibilidad web con VoiceOver (formato md)](https://github.com/argob/accesibilidad-web/blob/master/docs/funciones_voiceover.md)**
 
+### Accesibilidad Web - Recursos para desarrolladores
+
+* **[Accesibilidad Web - Recursos para desarrolladores (formato md)](https://github.com/argob/accesibilidad-web/blob/master/docs/recursos-desarrolladores.md)**
+
 
 ## Estructura del repositorio
 
