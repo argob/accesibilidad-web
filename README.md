@@ -75,4 +75,4 @@ Estos son los Desafíos que propusimos a los participantes que se acercaron a nu
 
 Te invitamos a [crearnos un issue](https://github.com/argob/accesibilidad-web/issues/new) en caso de que quieras proponer una mejora o reportar un error en alguna parte del repositorio `accesibilidad-web`.
 
-Para todo lo demás, podés mandarnos tu comentario o consulta a [accesibilidadweb@modernizacion.gob.ar](mailto:accesibilidadweb@modernizacion.gob.ar).
+Para todo lo demás, podés mandarnos tu comentario o consulta a [accesibilidadweb@innovacion.gob.ar](mailto:accesibilidadweb@innovacion.gob.ar).
